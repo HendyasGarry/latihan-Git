@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main (){
-	printf("latihan berfaedah\n");
+	printf("halo bos\n");
 	return 0;
 }
